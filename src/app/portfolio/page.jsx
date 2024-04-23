@@ -1,5 +1,5 @@
 const PortfolioPage = () => {
-  return <div>About Page</div>;
+  return <div>Portfolio Page</div>;
 };
 
 export default PortfolioPage;
